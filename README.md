@@ -15,3 +15,5 @@ See requirements.txt file
 Install PyTorch and other required Python libraries in a virtual environment with:
 
 pip install -r requirements.txt
+
+![image](https://github.com/Jeevanmerkaji/Image_Classification/assets/101675566/52ae6ed2-fbd6-49de-95ea-7b1cb0450b42)
