@@ -14,6 +14,13 @@ See requirements.txt file
 # Setup
 Install PyTorch and other required Python libraries in a virtual environment with:
 
+```bash
 pip install -r requirements.txt
+```
 
-![image](https://github.com/Jeevanmerkaji/Image_Classification/assets/101675566/52ae6ed2-fbd6-49de-95ea-7b1cb0450b42)
+![image](https://github.com/Jeevanmerkaji/Image_Classification/assets/101675566/d85066c6-05a3-4fbe-9683-a2a8cfcb5346)
+
+
+# Usage 
+
+```bash pip install -r requirements.txt``` python main.py executes and runs the code with all the default arguments.
